@@ -17,12 +17,6 @@ An interactive clipboard-based survival game built with **Python + Tkinter**, de
 
 ---
 
-## 📸 Screenshot
-
-> *(Optional: Add a screenshot of the game running)*
-
----
-
 ## 📁 Folder Structure
 
 ```
